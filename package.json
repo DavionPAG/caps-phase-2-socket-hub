@@ -1,0 +1,24 @@
+{
+  "name": "caps-phase-2-socket-hub",
+  "version": "1.0.0",
+  "description": "# caps-phase-2-driver",
+  "main": "caps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vektur/caps-phase-2-socket-hub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vektur/caps-phase-2-socket-hub/issues"
+  },
+  "homepage": "https://github.com/Vektur/caps-phase-2-socket-hub#readme",
+  "dependencies": {
+    "socket.io": "^2.4.1",
+    "socket.io-client": "^2.4.0"
+  }
+}
