@@ -1,11 +1,10 @@
 # caps-phase-2-socket-hub
 
-# Lab 12 ==> Event Driven App
+# Lab 13 ==> Messaging Queue
 
 ## Deployment Test
 
 Author: Davion Garcia
-Partner: Terrence Simms
 
 - [Pull Req 1](https://github.com/Vektur/caps-phase-2-socket-hub/pull/1)
 - Local Testing: Jest
@@ -29,4 +28,4 @@ Partner: Terrence Simms
 
 - Whiteboard:
 
-![UML-Lab12](UML-Lab12.jpg)
+![UML-Lab12](UML-Lab-13.jpg)
