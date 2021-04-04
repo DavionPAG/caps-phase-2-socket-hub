@@ -6,7 +6,8 @@
 
 Author: Davion Garcia
 
-- [Pull Req 1](https://github.com/Vektur/caps-phase-2-socket-hub/pull/1)
+- [Pull Req Lab 12](https://github.com/Vektur/caps-phase-2-socket-hub/pull/1)
+- [Pull Req lab 13](https://github.com/Vektur/caps-phase-2-socket-hub/pull/2)
 - Local Testing: Jest
 
 ## Setup
